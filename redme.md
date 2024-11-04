@@ -1,9 +1,6 @@
 # Login Page Template Responsive Design
 
-![Author](https://img.shields.io/badge/author-%40nauvalazhar-blue.svg)
-[![Instagram](https://img.shields.io/instagram/url/https/github.com/nauvalazhar/my-login/.svg?style=social)](https://www.instagram.com/fernandocoff/)
-
-My Login is a Bootstrap 4 Login Page Snippet, you can use it as you wish and it's free for personal or commercial use.
+My Login Page Snippet, you can use it as you wish and it's free for personal or commercial use.
 
 ![Preview](https://login-form-hazel-beta.vercel.app/)
 
