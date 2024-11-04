@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=h1, initial-scale=1.0">
+    <link rel="stylesheet" href="../../build/css/main.css">
+    <script type="module" src="../js/validation.js" defer></script>
+    <script src="https://kit.fontawesome.com/cc5f700981.js" crossorigin="anonymous"></script>
+    <title>Register</title>
+</head>
+<body>
+    <div class="container">
+        <header class="container-header">
+            <h3 class="title">Cadastrar-se</h3>
+        </header>
+        <form class="input-group" id="form">
+            <div class="input-item">
+                <label for="userName">Nome de usuário</label>
+                <input type="text" id="userName" name="userName" placeholder="Nome de usuário">
+                <small>Error message</small>
+                <i class="fas fa-check-circle"></i>
+                <i class="fas fa-exclamation-circle"></i>
+            </div>
+            <div class="input-item">
+                <label for="email">Email</label>
+                <input type="text" id="email" name="email" placeholder="E-mail">
+                <small>Error message</small>
+                <i class="fas fa-check-circle"></i>
+                <i class="fas fa-exclamation-circle"></i>
+            </div>
+            <div class="input-item">
+                <label for="password">Senha</label>
+                <input type="password" id="password" name="password" placeholder="Senha">
+                <small>Error message</small>
+                <i class="fas fa-check-circle"></i>
+                <i class="fas fa-exclamation-circle"></i>
+            </div>
+            <div class="checkbox-gp">
+                <input type="checkbox" id="checkTerms" name="checkTerms">
+                <label for="remember">Eu aceito os <a href="#">Termos e Condições</a></label>
+            </div>
+            <button type="submit" id="submitButton" class="">Cadastrar</button>
+            <p>Já possui uma conta?<a href="../../../index.html"> Faça login</a></p>
+        </form>
+    </div>
+</body>
+</html>

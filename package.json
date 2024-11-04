@@ -1,0 +1,16 @@
+{
+  "name": "login-form",
+  "version": "1.0.0",
+  "main": "./js/login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass" : "sass ./assets/source/scss/main.scss ./assets/build/css/main.css"
+  },
+  "author": "Luiz Reis",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "sass": "^1.80.6"
+  }
+}
