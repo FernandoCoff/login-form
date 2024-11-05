@@ -2,8 +2,6 @@
 
 My Login Page Snippet, you can use it as you wish and it's free for personal or commercial use.
 
-![Preview](https://login-form-hazel-beta.vercel.app/)
-
 # Installation
 Let's make it easy! Just download this template, use it on your project.
 
