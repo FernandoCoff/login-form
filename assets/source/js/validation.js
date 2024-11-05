@@ -58,6 +58,8 @@ form.addEventListener('submit', (e)=>{
             setErrorFor(Username, 'Por favor insira o nome de usuário!')
         }else if(userNameValue.length < '3'){
             setErrorFor(Username, "Insira um nome de usuário válido!")
+        }else{
+            setSuccessFor(Username)
         }
     }catch(erro){
 
